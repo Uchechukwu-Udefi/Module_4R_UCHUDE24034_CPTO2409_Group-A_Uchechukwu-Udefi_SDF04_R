@@ -20,6 +20,8 @@ body {
     width: 80%;
     position: relative; 
     display: flex;
+    justify-content: center;
+    align-items: center;
   }
   
   .pastry {
