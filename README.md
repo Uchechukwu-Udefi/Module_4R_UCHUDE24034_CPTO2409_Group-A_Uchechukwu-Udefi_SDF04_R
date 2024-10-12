@@ -41,6 +41,7 @@ You have everything you need to start your project using the GitHub Starter repo
 1. Submit your GitHub repo link through the LMS. Remember to rename your project with your student number, group number and coach name. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
 
 ### How I solve the task
+- I set the margin and padding property of the body
 - I set the top property of all pastries to 35px to center them in a row.
 - I adjust the left property of each pastry to space them evenly.
 - I added the flex-grow property to maintain responsive layout.
