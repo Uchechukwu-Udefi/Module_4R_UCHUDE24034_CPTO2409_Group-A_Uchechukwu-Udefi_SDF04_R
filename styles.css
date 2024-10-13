@@ -36,25 +36,25 @@ body {
   }
   
   .pastry1 { /* Cookie */
-    top: 35px;
+    top: 32px;
     left: 15%;
     background-color: #f0bb7f; 
   }
   
   .pastry2 { /* Brownie */
-    top: 35px;
+    top: 32px;
     left: 35%;
     background-color: #7f553f; 
   }
   
   .pastry3 { /* Cupcake */
-    top: 35px;
+    top: 32px;
     left: 55%;
     background-color: #f0a8be; 
   }
   
   .pastry4 { /* Jelly Roll */
-    top: 35px;
+    top: 32px;
     left: 75%;
     background-color: #7fa8f0; 
   }
